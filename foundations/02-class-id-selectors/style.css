@@ -1,0 +1,25 @@
+* {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.odd-numbers {
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#another {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
